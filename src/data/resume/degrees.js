@@ -2,7 +2,7 @@ const degrees = [
   {
     school: 'Harvard University',
     degree: 'B.S. Computer Science and Statistics',
-    link: 'https://buffalo.edu',
+    link: 'https://www.harvard.edu/',
     year: 2024,
   },
 ];
