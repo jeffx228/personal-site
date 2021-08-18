@@ -19,10 +19,11 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Jeffrey. I&apos;m a sophomore studying
+      <p>Hi, I&apos;m Jeffrey. I&apos;m currently studying
         <a href="https://handbook.fas.harvard.edu/book/computer-science"> CS and Statistics at Harvard</a>.
         My main interests include natural language processing and full-stack development, and I have
-        internship experience working at startups like ThinkCerca and Axon[Bytes].
+        internship experience working as a Data Science Intern ThinkCerca. I&apos;m
+        also interested in quantitative finance and trading.
       </p>
       <ul className="actions">
         <li>

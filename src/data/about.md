@@ -1,7 +1,7 @@
 
 # Intro
 
-My name is Jeffrey. I'm a rising sophomore at Harvard studying Computer Science and Statistics. I'm also involved in Harvard Undergraduate Consulting for Business and the Environment (CBE) and Harvard Undergraduate Data Analytics (HDAG). My interests include NLP, ML/AI, full-stack web development, blockchain, and data science. I'm particularly interested in software engineering and quant, so if you have any related opportunities, feel free to get in touch with me!
+My name is Jeffrey. I'm currently studying Computer Science and Statistics at Harvard. I'm also involved in Harvard Undergraduate Consulting for Business and the Environment (CBE) and Harvard Undergraduate Data Analytics (HDAG). My interests include NLP, ML/AI, full-stack web development, blockchain, and data science. I'm particularly interested in software engineering and quant, so if you have any related opportunities, feel free to get in touch with me!
 
 # Currently
 
