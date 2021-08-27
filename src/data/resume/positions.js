@@ -5,8 +5,8 @@ const positions = [
     link: 'https://www.thinkcerca.com/',
     daterange: 'June 2021 - Present',
     points: [
-      'Streamlined student essay grading for teachers with the creation of smart highlighting tool for part of speech.',
-      'Created NLP-based machine learning model with 85% grading bucket accuracy, slashing grading efforts on teaching end with high accuracy regression.',
+      'Created NLP-based Python machine learning model with 90% identification accuracy. Built automated highlighting tool hosted using AWS Lambda and Sagemaker for deploying ML models saved in Hugging Face.',
+      'Trained with BERT, bag of words, and word2vec models on data queried using SQL with 87% validated accuracy on identifying CERCA elements. Built front-end testing API using React.js deployed with Chalice.',
     ],
   },
   {
@@ -15,8 +15,8 @@ const positions = [
     link: 'https://axonbytescom.sharepoint.com/',
     daterange: 'May 2021 - Present',
     points: [
-      'Optimized business model for a boat sharing club with investors and paid members.',
-      'Researched blockchain technologies and cryptocurrencies and am currently working to create a coin or tokenization to represent underlying real estate, boat, and RV assets to streamline investing and membership.',
+      'Researched blockchain technology and its applications in cryptocurrency.',
+      'Worked to create a coin to represent underlying real estate assets to streamline investing and membership, researching necessary steps for an ICO. Created Excel sheet with embedded stochastic calculus formulas to model price change of cryptocurrency for potential transactions and payments in coin.',
     ],
   },
   {
@@ -25,8 +25,7 @@ const positions = [
     link: 'https://www.inspiritai.com/',
     daterange: 'May 2021 - Present',
     points: [
-      'Developed and taught comprehensive introductory ML/AI curriculum to high schoolers over two 10-day programs.',
-      'Organized group bonding activities to increase student participation and interest in ML.',
+      'Developed and taught introductory yet comprehensive ML/AI curriculum to high schoolers over two 10-day programs, with linear and logistic regression, sentiment analysis, convolutional neural networks, and computer vision in Google Colaboratory using TensorFlow libraries, Pandas, NumPy, Sci-kit Learn, and more.',
     ],
   },
   {
